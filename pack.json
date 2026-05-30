@@ -1,0 +1,14 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "itzw1nd0wr.w1nd0ws-cool-pak-one",
+    "version": 1,
+    "packgen": true,
+    "type": "Useful",
+    "name": "w1nd0ws-cool-pak-one",
+    "authors": [
+        {
+            "name": "ItzW1nd0Wr",
+            "gdAccountID": 41285159
+        }
+    ]
+}
